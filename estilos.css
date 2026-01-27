@@ -127,7 +127,7 @@ section:first-of-type > .text-center p {
     margin-right: 60px;
 }
 .texto-caja p {
-    font-size: 1rem;   /* texto más grande */
+    font-size: 20px;   /* texto más grande */
     line-height: 1.6;   /* mejor lectura */
     margin-bottom: 0;
     color: rgb(229, 156, 107);     /* marrón oscuro, no negro puro */
